@@ -1,5 +1,1 @@
-{
-  "buildCommand": "npx vite build",
-  "installCommand": "npm ci --ignore-scripts --no-audit --no-fund",
-  "outputDirectory": "dist"
-}
+﻿{"installCommand": "npm install --include=dev","buildCommand": "npm run build","outputDirectory": "dist/public"}
